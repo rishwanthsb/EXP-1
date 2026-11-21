@@ -44,6 +44,8 @@ CIRCUIT DIAGRAM:
 
 
 a.   KVL:
+<img width="747" height="796" alt="image" src="https://github.com/user-attachments/assets/02caa18d-2f94-4b00-b658-5061583d8796" />
+
  
 
 
